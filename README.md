@@ -1,5 +1,5 @@
 # FoundryVTT-fallout-ru
-Unofficial Russian translation for Fallout 2d20 system in Foundry VTT | Неофициальный перевод на русский язык для системы Fallout 2d20 в Foundry VTT
+Неофициальный перевод на русский язык для системы Fallout 2d20 в Foundry VTT
 
 ![image](https://github.com/user-attachments/assets/e9595a86-f584-4932-a4d4-b44de5834dda)
 
@@ -23,4 +23,4 @@ Wealth - Добыча (В изначальном переводе было "Бл
 
 ![image](https://github.com/user-attachments/assets/6b8c9037-0420-4208-806f-cf2a6c77cfd8)
 
-Также возможно Вас заинтересует другой мой модуль с переводом компендиумов: https://github.com/Super-zapper/FoundryVTT-fallout-ru-compendiums
+Также возможно Вас заинтересует другой мой модуль с переводом компендиумов для этой системы: https://github.com/Super-zapper/FoundryVTT-fallout-ru-compendiums
