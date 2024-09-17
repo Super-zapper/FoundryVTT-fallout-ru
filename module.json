@@ -1,0 +1,15 @@
+{
+  "id": "foundryvtt-fallout-ru",
+  "title": "Fallout Russian Translation (Unofficial)",
+  "version": "1.0.0",
+  "compatibility": {
+    "verified": "12"
+  },
+  "languages": [
+    {
+      "lang": "ru",
+      "name": "Russian",
+      "path": "ru.json"
+    }
+  ]
+}
