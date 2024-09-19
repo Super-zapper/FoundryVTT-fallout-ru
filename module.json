@@ -2,6 +2,7 @@
   "id": "foundryvtt-fallout-ru",
   "title": "Fallout Russian Translation (Unofficial)",
   "version": "1.0.0",
+  "manifest": "https://raw.githubusercontent.com/Super-zapper/FoundryVTT-fallout-ru/main/module.json",
   "compatibility": {
     "verified": "12"
   },
