@@ -1,17 +1,19 @@
 {
   "id": "foundryvtt-fallout-ru",
   "title": "Fallout Russian Translation (Unofficial)",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "manifest": "https://raw.githubusercontent.com/Super-zapper/FoundryVTT-fallout-ru/main/module.json",
-  "download": "https://github.com/Super-zapper/FoundryVTT-fallout-ru/releases/download/V1.0/foundryvtt-fallout-ru.zip",
+  "download": "https://github.com/Super-zapper/FoundryVTT-fallout-ru/releases/download/V1.1/foundryvtt-fallout-ru.zip",
   "compatibility": {
-    "verified": "12"
+    "verified": "12.330",
+    "minimum": "10"
   },
   "languages": [
     {
       "lang": "ru",
       "name": "Russian",
-      "path": "ru.json"
+      "path": "ru.json",
+      "flags": {}
     }
   ]
 }
